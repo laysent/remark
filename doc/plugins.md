@@ -155,6 +155,8 @@ See [Creating plugins][create] below.
     — change absolute URLs to relative ones
 *   [`remark-retext`](https://github.com/remarkjs/remark-retext)
     — transform to [retext](https://github.com/retextjs/retext)
+*   [`remark-ruby`](https://github.com/laysent/remark-ruby)
+    — custom syntax to add HTML ruby (furigana) in markdown
 *   [`remark-sectionize`](https://github.com/jake-low/remark-sectionize)
     — wrap headings and subsequent content in section tags (new node type,
     rehype compatible)
